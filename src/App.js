@@ -6,7 +6,7 @@ import './App.css'
 
 const App = () => {
   return (
-    <div className='box-border p-0 m-0 scroll-smooth' >
+    <div className='App' >
        <div className='gradient__bg '>
         <Navbar/>
         <Header/>
