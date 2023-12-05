@@ -8,7 +8,7 @@ const WhatGPT3 = () => {
     <div className='gpt3__whatgpt3 section__margin' id='whpt3'>
       <div className='gpt3__whatgpt3-features'>
         <Feature title='What is GPT-3' text="
-GPT-3 AI, developed by OpenAI, is a cutting-edge language model with 175 billion parameters, making it one of the largest and most powerful in existence. This versatile model excels in natural language understanding and generation, enabling applications like chatbots, text completion, and language translation. Leveraging deep learning, GPT-3 processes and generates human-like text based on input, making it a key tool for various natural language processing tasks. Explore the capabilities of GPT-3 for advanced language-related applications on the OpenAI website." />
+GPT-3 AI, developed by OpenAI, is a cutting-edge language model with 175 billion parameters, making it one of the largest and most powerful in existence.  Leveraging deep learning, GPT-3 processes and generates human-like text based on input, making it a key tool for various natural language processing tasks." />
       </div>
       <div className='gpt3__whatgpt3-heading'>
         <h1 className='gradient__text'>The possibilities are beyond your imagination</h1>
